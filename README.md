@@ -1,4 +1,6 @@
+# Used to integrate existing projects with AI programming
+
 Create a symbolic link (or hard copy, symbolic link recommended) in the project root directory pointing to the corresponding template. Then, instruct the AI ​​to create AI-human pair programming documentation for the project based on this template…
 
-Worked on macOS 26.
+# Worked on macOS 26.
 TODO: linux,windows...
